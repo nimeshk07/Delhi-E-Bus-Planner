@@ -1,0 +1,4 @@
+streamlit>=1.49
+folium>=0.19
+streamlit-folium>=0.24
+scipy>=1.11
